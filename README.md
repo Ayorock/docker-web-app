@@ -13,14 +13,14 @@ The following steps was taking:
 9. Open your web browser and go to http://localhost:8080 to see your login form.
 10. To push the Docker image to Docker Hub, follow these steps:
 
-     	a. Create a Docker Hub Account (if you don't already have one)
+    a. Create a Docker Hub Account (if you don't already have one)
 	b. Go to Docker Hub and sign up for an account.
-
 	c. Log in to Docker Hub from the command line:
 		docker login (Enter your Docker Hub username and password when prompted)
-
-	d. Tag the Docker image : docker tag azubi-docker-form YOUR_DOCKERHUB_USERNAME/azubi-docker-form:latest
-	e. Push the docker image to Docker hub : docker push YOUR_DOCKERHUB_USERNAME/azubi-docker-form:latest
+	d. Tag the Docker image : 
+		docker tag azubi-docker-form aborisade/azubi-docker-form:latest
+	e. Push the docker image to Docker hub : 
+		docker push aborisade/azubi-docker-form:latest
 
 
 
