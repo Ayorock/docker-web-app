@@ -7,9 +7,9 @@ $client = new DynamoDbClient([
     'region'  => 'us-west-2',
     'version' => 'latest',
     'credentials' => [
-        'key'    => '',
+        'key'    => 'acess-key',
 
-        'secret' =>'' ,
+        'secret' =>'secret-key' ,
     ],
 ]);
 
