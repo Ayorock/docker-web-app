@@ -8,8 +8,8 @@ $client = new DynamoDbClient([
     'region' => 'us-east-1',  // Adjust the region as needed
     'version' => 'latest' ,
     'credentials' => [
-        'key'    => 'AKIAYS2NVKP5OW2AZHGF',
-        'secret' => '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',
+        'key'    => '',
+        'secret' => '',
     ]
 
 ]);
