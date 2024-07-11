@@ -1,5 +1,5 @@
 # docker-web-app
-Command to launch website on Fargate
+Creating a Docker Image and Pushing To Docker hub
 
 The following steps was taking:
 1. Create a Repo on Githup name "docker-web-app"
