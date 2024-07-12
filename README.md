@@ -78,9 +78,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Docker Cheat Sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
+* [Terraform Cheatsheet](https://www.pluralsight.com/resources/blog/cloud/the-ultimate-terraform-cheatsheet)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 
