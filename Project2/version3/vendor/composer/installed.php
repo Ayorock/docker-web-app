@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '986724cafaf4cd2a1d5073a6b1fa04e32be110a6',
+        'reference' => '5793f98cd9c4497afc6aca310da05e614afd4c78',
         'name' => '__root__',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '986724cafaf4cd2a1d5073a6b1fa04e32be110a6',
+            'reference' => '5793f98cd9c4497afc6aca310da05e614afd4c78',
             'dev_requirement' => false,
         ),
         'aws/aws-sdk-php' => array(
